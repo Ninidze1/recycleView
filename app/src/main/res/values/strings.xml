@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recycle View</string>
+    <string name="title">title</string>
+    <string name="hasturbo">hasTurbo</string>
+    <string name="engine_capacity">engine capacity</string>
+    <string name="horse_power">horse power</string>
+</resources>
